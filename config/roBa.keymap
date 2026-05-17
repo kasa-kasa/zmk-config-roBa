@@ -86,7 +86,7 @@
 &kp LWIN          &kp COMMA  &kp DOT  &lt 1 LANG1  &lt 2 SPACE  &lt 3 LANGUAGE_2      &lt 4 ENTER  &kt BACKSPACE                             &lt 5 DEL
             >;
 
-            sensor-bindings = <&inc_dec_kp PG_UP PAGE_DOWN>;
+            sensor-bindings = <&inc_dec_kp PG_DN PG_UP>;
         };
 
         FUNCTION {
